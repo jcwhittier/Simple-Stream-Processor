@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 ### Clone or download repository
 `git clone repo-name`
