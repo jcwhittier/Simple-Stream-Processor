@@ -1,9 +1,9 @@
 # Setup
 
 ### Clone or download repository
-`git clone repo-name`
+`https://github.com/jcwhittier/Simple-Stream-Processor.git`
 
-`cd python-simple-stream-processor/StreamProcessor`
+`cd Simple-Stream-Processor/StreamProcessor`
 
 ### Install all required packages:
 
