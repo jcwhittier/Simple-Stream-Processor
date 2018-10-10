@@ -36,7 +36,7 @@ You may pipe in or enter data manually as shown below:
 `1,sensors,-68.66724609375, 44.905740970542475,8,110`<br>
 `1,sensors,-68.66724609375, 44.90561240278874,9,115`<br>
 
-### Processing data from a connected Arduino
+### Processing data from a connected Arduino (untested)
 Run StreamProcessor.py reading data from an Arduino connected as a serial device 
 
 Windows example:<br>
